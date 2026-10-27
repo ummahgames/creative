@@ -6,12 +6,12 @@ Habitats, storytelling, design, repair, and creature care.
 
 | Game | Folder | Public route |
 | --- | --- | --- |
-| [Cloud Habitat](cloud-habitat/index.html) | [cloud-habitat/](cloud-habitat/README.md) | /cloud-habitat/ |
-| [Please Describe the Monster](please-describe-the-monster/index.html) | [please-describe-the-monster/](please-describe-the-monster/README.md) | /please-describe-the-monster/ |
-| [Pocket Conservatory](pocket-conservatory/index.html) | [pocket-conservatory/](pocket-conservatory/README.md) | /pocket-conservatory/ |
-| [Stardust Sanctuary](stardust-sanctuary/index.html) | [stardust-sanctuary/](stardust-sanctuary/README.md) | /stardust-sanctuary/ |
-| [Storybook Stagehands](storybook-stagehands/index.html) | [storybook-stagehands/](storybook-stagehands/README.md) | /storybook-stagehands/ |
-| [The Traveling Repair Shop](the-traveling-repair-shop/index.html) | [the-traveling-repair-shop/](the-traveling-repair-shop/README.md) | /the-traveling-repair-shop/ |
+| [Cloud Habitat](cloud-habitat/index.html) | [cloud-habitat/](cloud-habitat/README.md) | /creative/cloud-habitat/ |
+| [Please Describe the Monster](please-describe-the-monster/index.html) | [please-describe-the-monster/](please-describe-the-monster/README.md) | /creative/please-describe-the-monster/ |
+| [Pocket Conservatory](pocket-conservatory/index.html) | [pocket-conservatory/](pocket-conservatory/README.md) | /creative/pocket-conservatory/ |
+| [Stardust Sanctuary](stardust-sanctuary/index.html) | [stardust-sanctuary/](stardust-sanctuary/README.md) | /creative/stardust-sanctuary/ |
+| [Storybook Stagehands](storybook-stagehands/index.html) | [storybook-stagehands/](storybook-stagehands/README.md) | /creative/storybook-stagehands/ |
+| [The Traveling Repair Shop](the-traveling-repair-shop/index.html) | [the-traveling-repair-shop/](the-traveling-repair-shop/README.md) | /creative/the-traveling-repair-shop/ |
 
 ## Hosting
 
